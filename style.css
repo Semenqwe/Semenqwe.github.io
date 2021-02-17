@@ -1,0 +1,130 @@
+ body 
+ .block1 { 
+   width: 180px;
+     max-width: 180px;
+     display: table;
+    background: linear-gradient(to right,#00FFFF 35%, #5F9EA0 36%) ;
+    padding: 5px;
+    padding-right: 20px; 
+    float: left;
+    position: absolute; 
+    top: 18px;
+    left: 177px; 
+  }
+   .block2 { 
+   width: 180px;
+     max-width: 180px;
+     display: table;
+    background: linear-gradient(to right,#00FFFF 31%, #5F9EA0 32%) ;
+    padding: 5px;
+    padding-right: 20px; 
+    float: left;
+    position: absolute; 
+    top: 48px;
+    left: 177px; 
+    }
+    .radius {
+  width: 10em;
+  height: 22em;
+  border: 3px ;
+  border-radius: 100% 0 0 100% / 50% 0 0 50%;
+  background: #00FFFF;
+   }
+   .block3 { 
+    width: 180px;
+     max-width: 180px;
+     display: table;
+    background: linear-gradient(to right,#00FFFF 72%, #5F9EA0 73%) ;
+    padding: 5px;
+    padding-right: 20px; 
+    float: left;
+    position: absolute; 
+    top: 78px;
+    left: 177px; 
+   }
+   .block4 {
+    width: 180px;
+     max-width: 180px;
+     display: table;
+    background: linear-gradient(to right,#00FFFF 45%, #5F9EA0 46%) ;
+    padding: 5px;
+    padding-right: 20px; 
+    float: left;
+    position: absolute; 
+    top: 108px;
+    left: 177px; 
+   }
+   .block5 {
+    width: 180px;
+     max-width: 180px;
+     display: table;
+    background: linear-gradient(to right,#00FFFF 35%, #5F9EA0 36%) ;
+    padding: 5px;
+    padding-right: 20px;
+    float: left;
+    position: absolute; 
+    top: 138px;
+    left: 177px; 
+   }
+  .block6 {
+    width: 180px;
+     max-width: 180px;
+     display: table;
+    background: linear-gradient(to right,#00FFFF 70%, #5F9EA0 71%) ;
+    padding: 5px;
+    padding-right: 20px; 
+    float: left;
+    position: absolute; 
+    top: 168px;
+    left: 177px; 
+  }
+  .block7 {
+    width: 180px;
+     max-width: 180px;
+     display: table;
+    background: linear-gradient(to right,#00FFFF 25%, #5F9EA0 26%) ;
+    padding: 5px;
+    padding-right: 20px; 
+    float: left;
+    position: absolute; 
+    top: 198px;
+    left: 177px; 
+  }
+  .block8 {
+    width: 180px;
+     max-width: 180px;
+     display: table;
+    background: linear-gradient(to right,#00FFFF 49%, #5F9EA0 45%) ;
+    padding: 5px;
+    padding-right: 20px; 
+    float: left;
+    position: absolute; 
+    top: 238px;
+    left: 177px; 
+  }
+  .block9 {
+    width: 180px;
+     max-width: 180px;
+     display: table;
+    background: linear-gradient(to right,#00FFFF 0%, #5F9EA0 1%) ;
+    padding: 5px;
+    padding-right: 20px; 
+    float: left;
+    position: absolute; 
+    top: 268px;
+    left: 177px; 
+    
+  }
+  .block122 {
+     width: 180px;
+     max-width: 180px;
+     display: table;
+    background: linear-gradient(to right,#00FFFF 0%, #5F9EA0 1%) ;
+    padding: 5px;
+    padding-right: 20px; 
+    float: left;
+    position: absolute; 
+    top: 303px;
+    left: 177px; 
+    }
+  }  
