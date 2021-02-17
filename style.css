@@ -1,7 +1,7 @@
  body 
  .block1 { 
-   width: 180px;
-     max-width: 180px;
+   width: 150px;
+     max-width: 150px;
      display: table;
     background: linear-gradient(to right,#00FFFF 35%, #5F9EA0 36%) ;
     padding: 5px;
@@ -15,7 +15,7 @@
    width: 180px;
      max-width: 180px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 31%, #5F9EA0 32%) ;
+    background: linear-gradient(to right,#00FFFF 25%, #5F9EA0 26%) ;
     padding: 5px;
     padding-right: 20px; 
     float: left;
@@ -31,10 +31,10 @@
   background: #00FFFF;
    }
    .block3 { 
-    width: 180px;
-     max-width: 180px;
+    width: 130px;
+     max-width: 130px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 72%, #5F9EA0 73%) ;
+    background: linear-gradient(to right,#00FFFF 100%, #5F9EA0 46%) ;
     padding: 5px;
     padding-right: 20px; 
     float: left;
@@ -55,8 +55,8 @@
     left: 177px; 
    }
    .block5 {
-    width: 180px;
-     max-width: 180px;
+    width: 100px;
+     max-width: 100px;
      display: table;
     background: linear-gradient(to right,#00FFFF 35%, #5F9EA0 36%) ;
     padding: 5px;
@@ -67,10 +67,10 @@
     left: 177px; 
    }
   .block6 {
-    width: 180px;
-     max-width: 180px;
+    width: 120px;
+     max-width: 120px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 70%, #5F9EA0 71%) ;
+    background: linear-gradient(to right,#00FFFF 40%, #5F9EA0 41%) ;
     padding: 5px;
     padding-right: 20px; 
     float: left;
@@ -79,10 +79,10 @@
     left: 177px; 
   }
   .block7 {
-    width: 180px;
-     max-width: 180px;
+    width: 160px;
+     max-width: 160px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 25%, #5F9EA0 26%) ;
+    background: linear-gradient(to right,#00FFFF 5%, #5F9EA0 6%) ;
     padding: 5px;
     padding-right: 20px; 
     float: left;
@@ -91,8 +91,8 @@
     left: 177px; 
   }
   .block8 {
-    width: 180px;
-     max-width: 180px;
+    width: 140px;
+     max-width: 140px;
      display: table;
     background: linear-gradient(to right,#00FFFF 49%, #5F9EA0 45%) ;
     padding: 5px;
@@ -103,8 +103,8 @@
     left: 177px; 
   }
   .block9 {
-    width: 180px;
-     max-width: 180px;
+    width: 140px;
+     max-width: 140px;
      display: table;
     background: linear-gradient(to right,#00FFFF 0%, #5F9EA0 1%) ;
     padding: 5px;
@@ -116,8 +116,8 @@
     
   }
   .block122 {
-     width: 180px;
-     max-width: 180px;
+     width: 140px;
+     max-width: 140px;
      display: table;
     background: linear-gradient(to right,#00FFFF 0%, #5F9EA0 1%) ;
     padding: 5px;
