@@ -1,9 +1,9 @@
  body 
- .block1 { 
-   width: 150px;
-     max-width: 150px;
+ .octopus__html { 
+   width: 200px;
+     max-width: 200px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 35%, #5F9EA0 36%) ;
+    background: linear-gradient(to right, #00FFFF 20%, orange 20% 40%,#5F9EA0 41% );
     padding: 5px;
     padding-right: 20px; 
     float: left;
@@ -11,11 +11,11 @@
     top: 18px;
     left: 177px; 
   }
-   .block2 { 
-   width: 180px;
-     max-width: 180px;
+   .octopus__css { 
+   width: 200px;
+     max-width: 200px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 25%, #5F9EA0 26%) ;
+    background: linear-gradient(to right, #00FFFF 20%, orange 20% 40%,#5F9EA0 41% ) ;
     padding: 5px;
     padding-right: 20px; 
     float: left;
@@ -30,11 +30,11 @@
   border-radius: 100% 0 0 100% / 50% 0 0 50%;
   background: #00FFFF;
    }
-   .block3 { 
-    width: 130px;
-     max-width: 130px;
+   .octopus__teacher { 
+    width: 200px;
+     max-width: 200px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 100%, #5F9EA0 46%) ;
+    background: linear-gradient(to right, #00FFFF 55%, #5F9EA0 56% ) ;
     padding: 5px;
     padding-right: 20px; 
     float: left;
@@ -42,11 +42,11 @@
     top: 78px;
     left: 177px; 
    }
-   .block4 {
-    width: 180px;
-     max-width: 180px;
+   .octopus__english {
+    width: 200px;
+     max-width: 200px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 45%, #5F9EA0 46%) ;
+    background: linear-gradient(to right, #00FFFF 37%, orange 37% 50%,#5F9EA0 51% ) ;
     padding: 5px;
     padding-right: 20px; 
     float: left;
@@ -54,11 +54,11 @@
     top: 108px;
     left: 177px; 
    }
-   .block5 {
-    width: 100px;
-     max-width: 100px;
+   .octopus__design {
+    width: 200px;
+     max-width: 200px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 35%, #5F9EA0 36%) ;
+    background: linear-gradient(to right, #00FFFF 15%, orange 15% 40%,#5F9EA0 41% ) ;
     padding: 5px;
     padding-right: 20px;
     float: left;
@@ -66,11 +66,11 @@
     top: 138px;
     left: 177px; 
    }
-  .block6 {
-    width: 120px;
-     max-width: 120px;
+  .octopus__gameonguitar {
+    width: 200px;
+     max-width: 200px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 40%, #5F9EA0 41%) ;
+    background: linear-gradient(to right, #00FFFF 35%, orange 35% 40%,#5F9EA0 41% ) ;
     padding: 5px;
     padding-right: 20px; 
     float: left;
@@ -78,11 +78,11 @@
     top: 168px;
     left: 177px; 
   }
-  .block7 {
-    width: 160px;
-     max-width: 160px;
+  .octopus__JS {
+    width: 200px;
+     max-width: 200px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 5%, #5F9EA0 6%) ;
+    background: linear-gradient(to right, #00FFFF 5%, orange 5% 40%,#5F9EA0 41% );
     padding: 5px;
     padding-right: 20px; 
     float: left;
@@ -91,20 +91,20 @@
     left: 177px; 
   }
   .block8 {
-    width: 140px;
-     max-width: 140px;
+    width: 100px;
+     max-width: 100px;
      display: table;
-    background: linear-gradient(to right,#00FFFF 49%, #5F9EA0 45%) ;
+    background: #FF4500;
     padding: 5px;
     padding-right: 20px; 
     float: left;
     position: absolute; 
-    top: 238px;
-    left: 177px; 
+    top: 198px;
+    left: 447px; 
   }
-  .block9 {
-    width: 140px;
-     max-width: 140px;
+  .octopus__new {
+    width: 200px;
+     max-width: 200px;
      display: table;
     background: linear-gradient(to right,#00FFFF 0%, #5F9EA0 1%) ;
     padding: 5px;
@@ -115,9 +115,9 @@
     left: 177px; 
     
   }
-  .block122 {
-     width: 140px;
-     max-width: 140px;
+  .octopus__other {
+     width: 200px;
+     max-width: 200px;
      display: table;
     background: linear-gradient(to right,#00FFFF 0%, #5F9EA0 1%) ;
     padding: 5px;
